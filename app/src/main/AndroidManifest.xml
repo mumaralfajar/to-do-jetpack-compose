@@ -4,6 +4,7 @@
     package="com.mumaralfajar.to_do">
 
     <application
+        android:name=".ToDoApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
